@@ -1,0 +1,18 @@
+<view class="page">
+      <scroll-view
+        class="scroll-view"
+        scroll-y
+        upper-threshold="1"
+        lower-threshold="1"
+        scroll-with-animation="true"
+        enable-back-to-top="true"
+      >
+        <view id="one" class="color-a">A</view>
+        <view id="two" class="color-b">B</view>
+        <view id="three" class="color-c">C</view>
+      </scroll-view>
+    <view style="padding:30px 70px;">
+        <button bindtap="getInfo" class="btn" type="primary">获取 C scrollTop</button>      
+    </view>
+    <view style=" text-align: center;font-size:16px">滚动到中间位置后点击按钮</view>
+</view>

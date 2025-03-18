@@ -1,0 +1,17 @@
+{
+  "condition": {
+    "miniprogram": {
+      "current": -1,
+      "list": [
+        {
+          "id": 1742300595605,
+          "name": "query",
+          "pathName": "api-case/query/query",
+          "query": "",
+          "launchMode": "default",
+          "scene": "38"
+        }
+      ]
+    }
+  }
+}
