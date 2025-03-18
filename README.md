@@ -1,13 +1,7 @@
-# miniprogram-mvp
-> 小红书小程序示例代码
+相同代码在微信和抖音都正常
 
-### 预览调试
+#微信小程序代码片段地址
+https://developers.weixin.qq.com/s/oHbuLKmv7HYw
 
-请前往官网下载最新版本 IDE(小红书小程序开发者工具) 预览调试 [IDE下载链接](https://miniapp.xiaohongshu.com/docs/ide/overview)
-
-### 小红书小程序开发者文档
-
-[开发文档](https://miniapp.xiaohongshu.com/docs/guide/miniIntroduce)
-
-提交问题
-开发过程中，有任何问题，欢迎在 [issue](https://github.com/redengineer/redmini/issues) 下留言与我们交流
+#抖音小程序代码片段地址
+https://developer.open-douyin.com/ide/minicode/2f0a241b93ec9f4c2ea6e1e4491a7607
